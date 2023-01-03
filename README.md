@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cam! Its nice to meet you!
-- 👀 I’m interested in iOS development/mobile development
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on iOS projects
 - 📫 How to reach me ctvaan.dev@gmail.com
 
